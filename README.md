@@ -5,9 +5,13 @@ I am a web developer focused on Django and related technologies. I’m passionat
 Skills
 
 🐍 Python & Django (Backend Development)
+
 🌐 HTML, CSS, JavaScript (Frontend basics and user interaction)
+
 ⚛️ React (Dynamic UI development)
+
 🎨 Tailwind CSS and Bootstrap (Responsive and rapid design)
+
 🗄️ Databases: SQL Server, PostgreSQL
 
 About Me
