@@ -8,8 +8,6 @@ Skills
 
 🌐 HTML, CSS, JavaScript (Frontend basics and user interaction)
 
-⚛️ React (Dynamic UI development)
-
 🎨 Tailwind CSS and Bootstrap (Responsive and rapid design)
 
 🗄️ Databases: SQL Server, PostgreSQL
