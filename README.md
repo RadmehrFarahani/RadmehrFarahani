@@ -1,4 +1,4 @@
-Hello! 👋 I’m Radmehr Farahani
+Hi! 👋 I’m Radmehr Farahani
 
 I am a web developer focused on Django and related technologies. I’m passionate about building scalable, secure, and user-friendly applications using modern technologies.
 
